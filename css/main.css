@@ -20,20 +20,38 @@ h1 {
 	font-family: 'Contrail One', cursive;
 	padding: 1em;
 	text-align: center;
+	margin: 0em;
+}
+
+div {
+	position: relative;
+	overflow: hidden;
+	width: 320px;
+	margin: 0em auto;
 }
 
 .body {
 	width: 320px;
+	display: block;
 }
 
 .brain {
 	width: 46px;
+	position: relative;
+	right: 120px;
+	top: 100px;
 }
 
 .left {
 	width: 125px;
+	position: relative;
+	top: 135px;
+	left: 32px;
 }
 
 .right {
 	width: 125px;
+	position: relative;
+	top: 135px;
+	left: 32px;
 }
