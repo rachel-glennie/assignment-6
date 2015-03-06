@@ -9,3 +9,19 @@ html {
 h1 {
 	font-family: 'Contrail One', cursive;
 }
+
+.body {
+	width: 320px;
+}
+
+.brain {
+	width: 46px;
+}
+
+.left {
+	width: 125px;
+}
+
+.right {
+	width: 125px;
+}
