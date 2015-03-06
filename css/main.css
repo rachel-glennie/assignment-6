@@ -45,13 +45,13 @@ div {
 .left {
 	width: 125px;
 	position: relative;
-	top: 135px;
-	left: 32px;
+	top: 136px;
+	right: 15px;
 }
 
 .right {
 	width: 125px;
 	position: relative;
-	top: 135px;
-	left: 32px;
+	top: 136px;
+	right: 20px;
 }
