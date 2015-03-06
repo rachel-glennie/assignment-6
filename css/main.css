@@ -6,8 +6,20 @@ html {
 	box-sizing: inherit;
 }
 
+body {
+	margin: 0em;
+}
+
+header {
+	background-color: #2c3950;
+}
+
 h1 {
+	background-color: #1a2230;
+	color: white;
 	font-family: 'Contrail One', cursive;
+	padding: 1em;
+	text-align: center;
 }
 
 .body {
